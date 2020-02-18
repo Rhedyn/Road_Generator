@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Road\bin\Debug\Road.exe.config
+C:\Users\pc\Desktop\Road\bin\Debug\Road.exe
+C:\Users\pc\Desktop\Road\bin\Debug\Road.pdb
+C:\Users\pc\Desktop\Road\obj\Debug\Road.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Road\obj\Debug\Road.exe
+C:\Users\pc\Desktop\Road\obj\Debug\Road.pdb
